@@ -2,29 +2,30 @@
 
 # Proyecto HRUN2020 (template): 
 
-Nombre del Equipo: 
+Nombre del Equipo: Boomercraft
 
 Proyecto (código): 
 
 
 ## Resumen
+Marselo, cantande fracaso, viaja al pasado para evitar la democracia y conseguir la fama. 
 
 
 ### Personaje
 
 ![](https://github.com/mgea/storytelling/blob/master/img-nobody.png)
 
-Nombre: 
+Nombre: Marselo 
 
 
 ### Historia
-
+Marselo, un cantante fracasado y de ideales anticuados, viaja al pasado para publicar las canciones exitosas de hoy y así poder frenar el ascenso de la democracia con el poder público que consigue. Lo que él no sabe, es que al regresar al futuro, todo habrá cambiado de forma imprevisible.
 
 ### Contexto
-
+La transición española a la democracia.
 
 ### Conflicto 
-
+Marselo, por sus ideales, es feliz en el pasado. Sin embargo, echa de menos su vida en el presente, Internet, su bar y sus parroquianos
 
 - ChatBot: (enlace) 
 
